@@ -1,0 +1,198 @@
+solid lw_logo
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 50
+			vertex -50 -20 50
+			vertex -20 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -20 20 50
+			vertex -50 20 50
+			vertex -20 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -20 20 50
+			vertex -20 -20 50
+			vertex -30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 20 30
+			vertex -20 20 50
+			vertex -30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 20 30
+			vertex -30 -20 30
+			vertex 30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 30 20 30
+			vertex -30 20 30
+			vertex 30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 30 20 30
+			vertex 30 -20 30
+			vertex 20 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 20 20 50
+			vertex 30 20 30
+			vertex 20 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 50 20 50
+			vertex 20 -20 50
+			vertex 50 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 20 20 50
+			vertex 20 -20 50
+			vertex 50 20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 50
+			vertex -50 -20 -20
+			vertex -50 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 50
+			vertex -50 20 -20
+			vertex -50 -20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 50 20 50
+			vertex 50 -20 50
+			vertex 50 -20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 50 20 50
+			vertex 50 -20 -20
+			vertex 50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 -20
+			vertex 50 -20 -20
+			vertex -50 -20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 50 20 -20
+			vertex 50 -20 -20
+			vertex -50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 -20 50
+			vertex -30 -20 30
+			vertex -20 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 -20 50
+			vertex -50 -20 -20
+			vertex -30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 -20 30
+			vertex -50 -20 -20
+			vertex 50 -20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 -20 30
+			vertex 50 -20 -20
+			vertex 30 -20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 30 -20 30
+			vertex 50 -20 -20
+			vertex 50 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 20 -20 50
+			vertex 30 -20 30
+			vertex 50 -20 50
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 50
+			vertex -20 20 50
+			vertex -30 20 30
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -50 20 50
+			vertex -30 20 30
+			vertex -50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 20 30
+			vertex 50 20 -20
+			vertex -50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex -30 20 30
+			vertex 30 20 30
+			vertex 50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 30 20 30
+			vertex 50 20 50
+			vertex 50 20 -20
+		endloop
+	endfacet
+	facet normal 0 0 1
+		outer loop
+			vertex 20 20 50
+			vertex 50 20 50
+			vertex 30 20 30
+		endloop
+	endfacet
+endsolid lw_logo
