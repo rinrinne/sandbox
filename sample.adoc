@@ -1,0 +1,20 @@
+= My Article
+rinrinne
+
+http://wikipedia.org[Wikipedia] is an
+on-line encyclopaedia, available in
+English and many other languages.
+
+== Software
+
+You can install 'package-name' using
+the +gem+ command:
+
+ gem install package-name
+
+== Hardware
+
+Now using:
+* Dell
+* HP
+* IBM
